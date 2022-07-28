@@ -1,0 +1,4 @@
+variables:
+- team: mb-emag-cloudbees-ci
+- admin-user: mb-emag-admin
+- manager-user: mb-emag
